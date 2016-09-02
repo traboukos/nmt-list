@@ -10,6 +10,7 @@ Feel free add to this, via a [pull request](https://github.com/jonsafari/nmt-lis
 | Software | Who | Backend | Comments |
 | -------- | --- | ------- | -------- |
 | [dl4mt-tutorial](https://github.com/nyu-dl/dl4mt-tutorial) | [Cho](https://github.com/kyunghyuncho), [Orhan](https://github.com/orhanf) | [Theano](https://github.com/Theano/Theano) | |
+| [dl4mt-cdec](https://github.com/nyu-dl/dl4mt-cdec) | [Cho](https://github.com/kyunghyuncho), [Chung](https://github.com/jych) | [Theano](https://github.com/Theano/Theano) | Character-Level decoder |
 | [lamtram](https://github.com/neubig/lamtram) | [Graham](https://github.com/neubig) | [CNN](https://github.com/clab/cnn) | |
 | [Nematus](https://github.com/rsennrich/nematus) | [Rico](https://github.com/rsennrich), [Cho](https://github.com/kyunghyuncho), [Orhan](https://github.com/orhanf) | [Theano](https://github.com/Theano/Theano) | |
 [AMU NMT decoder](https://github.com/emjotde/amunmt) |  [Marcin](https://github.com/emjotde) | Custom | compatible with Nematus models |
